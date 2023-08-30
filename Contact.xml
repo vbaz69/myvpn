@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root_group>
+	<group display_name="All Contacts" />
+	<group display_name="Blacklist" />
+</root_group>
+<root_contact>
+	<contact display_name="Васильева Г.Е." office_number="06994*049" mobile_number="" other_number="" eyepea_contact_id="" group_id_name="All Contacts" />
+	<contact display_name="Гудым В.В." office_number="06994*039" mobile_number="" other_number="" eyepea_contact_id="" group_id_name="All Contacts" />
+	<contact display_name="Рус-Полтавская А.В." office_number="06994*042" mobile_number="" other_number="" eyepea_contact_id="" group_id_name="All Contacts" />
+	<contact display_name="Кулимага Ю.А." office_number="06994*040" mobile_number="" other_number="" eyepea_contact_id="" group_id_name="All Contacts" />
+	<contact display_name="Ачкас С.И." office_number="06994*047" mobile_number="" other_number="" eyepea_contact_id="" group_id_name="All Contacts" />
+	<contact display_name="Лиходед И.А." office_number="06994*054" mobile_number="" other_number="" eyepea_contact_id="" group_id_name="All Contacts" />
+	<contact display_name="Рыбальченко А.А." office_number="06994*055" mobile_number="" other_number="" eyepea_contact_id="" group_id_name="All Contacts" />
+	<contact display_name="Ореховская В.В." office_number="06994*042" mobile_number="" other_number="" eyepea_contact_id="" group_id_name="All Contacts" />
+</root_contact>
