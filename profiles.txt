@@ -5,15 +5,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmWHdqUnhheEVrdjlzZ2oxc1dpQWQw@45.8.147.205:4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplUGJ3Y1RHdUJENzVMR0lwUGltc2V2@103.113.71.73:52754#Germany
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaWVVPNHIxOE9VVmROT09UNUVoeXNM@74.119.194.31:61465#USA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowVlBBeXE2SzVIU1JRQ29NSDBxRzFi@185.88.141.21:45347
-
-vless://6cd6a0a8-f8d6-4518-9f3c-f5b83dcb9829@94.131.98.187:443?type=tcp&security=reality&pbk=PzB1_C-wivYKw4UniEz_LzGDL6SfKz1M6W37wZtOanI&fp=chrome&sni=google.com&sid=2ecd89e9&spx=%2F&flow=xtls-rprx-vision#Sweden-vpnsafebot
-
-vless://7f05804e-0894-4115-a9bb-5fdc25a23d3e@45.89.52.197:443?type=tcp&security=reality&pbk=_-5YsyvF7XAlS2BFnFuZgzNx-nOvcekapoH_HcnlMDw&fp=chrome&sni=google.com&sid=617a5712&spx=%2F&flow=xtls-rprx-vision#Turkey-vpnsafebot
-
-vless://04d08cd8-47d4-4db7-9709-763fc99ffbbc@77.91.103.158:443?type=tcp&security=reality&pbk=g28Hl2YdSekpyB8jtswoC9B02RELsxpf7MdeBpX0r1M&fp=chrome&sni=google.com&sid=e907488f&spx=%2F&flow=xtls-rprx-vision#Finland-vpnsafebot
-
-vless://b6533aed-e400-4d92-9cff-4c7142ddc214@94.131.106.6:443?type=tcp&security=reality&pbk=EoqycqRa8iQgDtkmmz7mrKEHZbk22wSD2t7cbG4hS3Q&fp=chrome&sni=google.com&sid=ad8c6c91&spx=%2F&flow=xtls-rprx-vision#Netherlands-vpnsafebot
-
-vless://97d393d9-a554-4f7c-bc2b-6f5654085924@80.92.204.14:443?type=tcp&security=reality&pbk=ceQkFUpQ6hg92_R-euHhQvFCqfk1ftRxw5XYSl2-PjQ&fp=chrome&sni=google.com&sid=ac71a7a5&spx=%2F&flow=xtls-rprx-vision#Germany-vpnsafebot
-
-vless://0ec6a6d4-36d5-4aa2-90fd-cd4e35a9ecc3@185.235.242.66:443?type=tcp&security=reality&pbk=XL0IW_fRRpCU2_iLjy2oCwpRI-NUZYd6yvl2IFS9fUM&fp=chrome&sni=google.com&sid=8599b452&spx=%2F&flow=xtls-rprx-vision#Russia-vpnsafebot
