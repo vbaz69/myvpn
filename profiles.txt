@@ -1,23 +1,23 @@
 VPNsafe:
 🇳🇱 Нидерланды 👇 ключ от 02.05.2024
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ejRUaDNRUDBGTlJ5ZzBhZDBIWnpQ@45.120.178.67:31268/?outline=1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ejRUaDNRUDBGTlJ5ZzBhZDBIWnpQ@45.120.178.67:31268#Netherlands
 
 🇫🇮 Финляндия 👇 ключ от 02.05.2024
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprS3hjd3Jnb1ZHcWVPbGpNeTJ4bGlR@95.164.113.204:4362/?outline=1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprS3hjd3Jnb1ZHcWVPbGpNeTJ4bGlR@95.164.113.204:4362#Finland
 
 🇬🇧 Великобритания 👇 ключ от 02.05.2024
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1YzZMSkFnZGNwZ3plbmNBc2QwWUFz@45.140.167.86:64111/?outline=1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1YzZMSkFnZGNwZ3plbmNBc2QwWUFz@45.140.167.86:64111#GB
 
 🇩🇪 Германия 👇 ключ от 02.05.2024
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwc0pmWFVZdWJmNGFyRGs5WGxuWjFv@185.235.241.80:59661/?outline=1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwc0pmWFVZdWJmNGFyRGs5WGxuWjFv@185.235.241.80:59661#Germany
 
 🇺🇦 Украина 👇 ключ от 02.05.2024
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4R2l2Mnp1M0dzbnBSWTNyakFpcUE0@45.14.246.164:49182/?outline=1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4R2l2Mnp1M0dzbnBSWTNyakFpcUE0@45.14.246.164:49182#UA
 
 
 
