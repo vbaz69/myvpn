@@ -5,3 +5,4 @@ vless://4c7d87b6-28bc-43ea-a479-92283a97a295@95.181.175.254:2053?security=realit
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVXM4Y1FSNVlDdU8wT05QSDdTSkhB@95.181.175.254:1080#%F0%9F%9A%80%20Marz%20%28vova%29%20%5BShadowsocks%20-%20tcp%5D
 
 ss://YWVzLTI1Ni1nY206M2dpU0V3S1BrcGp6c3M2SzQwc1NqTg@pl04.outline.abvpn.ru:47777/?outline=1&prefix=POST%20#🇵🇱Польша#4 ❯ Outline abvpn
+ss://YWVzLTI1Ni1nY206VURFVkFlWlRYbjlNN0RKMXZZb2dzQQ@94.131.125.8:42346/?outline=1&prefix=POST%20#🇵🇱Польша#5 ❯ Outline abvpn
