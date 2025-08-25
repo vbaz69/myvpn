@@ -1,1 +1,1 @@
-vless://853ae5b3-0655-4553-8de3-bedda84f08db@private.onlysq.ru:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=wikiportal.su&fp=chrome&security=reality&pbk=Q5K9b8iQnL1blnkUayOU0lCRQzougFFHSfUBHJJF2XE&sid=c2d76b0a381616dc#%F0%9F%87%A9%F0%9F%87%AA%20OnlySq%20VLESS-sudo-vova
+vless://853ae5b3-0655-4553-8de3-bedda84f08db@195.62.49.61:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=wikiportal.su&fp=chrome&security=reality&pbk=Q5K9b8iQnL1blnkUayOU0lCRQzougFFHSfUBHJJF2XE&sid=c2d76b0a381616dc#%F0%9F%87%A9%F0%9F%87%AA%20OnlySq%20VLESS-sudo-vova
